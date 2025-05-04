@@ -14,8 +14,10 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   --color-dark-grey:           #353535;
   --text-color:                var(--color-black);
 
+
   --font-family-base:          'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --font-family-title:         'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 
   --font-size-small:           1.2rem;
   --font-size-medium:          1.6rem;
@@ -23,20 +25,26 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   --font-size-x-large:         2.3rem;
   --font-size-xx-large:        4.8rem;
 
+
   --font-weight-regular:       400;
   --font-weight-bold:          700;
+
 
   --line-height-small:         1.2;
   --line-height-base:          1.5;
   --line-height-big:           1.8;
 
+
   --section-header-align:      center;
   --section-tagline-transform: uppercase;
+
 
   --section-title-margin:      0;
   --section-title-color:       var(--color-black);
 
+
   --section-tagline-margin:    0;
+
 
   --section-padding:           5rem 0;
   --section-header-padding:    0 0 3rem;
@@ -44,7 +52,9 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   --section-footer-padding:    3rem 0 0;
   --section-footer-align:      center;
 
+
   --footer-padding:            5rem 0 1rem;
+
 
   /* Nav Item Custom Properties */
   --nav-item-font-family:      var(--font-family-title);
@@ -235,10 +245,11 @@ a[href]:active { background-color: var(--color-light-grey); }
 }
 
 
-/* Social Link */
+/* Social Links */
 .social-link {
   display: block;
 }
+
 
 .social-link svg {
   fill: var(--text-color);
